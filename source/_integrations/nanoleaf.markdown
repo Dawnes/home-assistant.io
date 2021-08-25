@@ -42,7 +42,7 @@ name:
   default: Nanoleaf
 {% endconfiguration %}
 
-Please note that firmware updates have been known to sometimes change the mac adress of the controller. This may cause configured fixed IP addresses to no longer apply after an update.
+Please note that firmware updates have been known to sometimes change the MAC adress of the controller. This may cause configured fixed IP addresses to no longer apply after an update.
 
 ### Getting The Auth Token
 
